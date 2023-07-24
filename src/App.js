@@ -35,7 +35,7 @@ function App() {
 }
 function About() {
   // 👇️ redirect to external URL
-  window.location.replace('https://bobbyhadz.com');
+  window.location.replace('https://majaa12.vercel.app/');
 
   return null;
 }
